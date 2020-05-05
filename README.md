@@ -1,3 +1,3 @@
-## Pattern Project
+# Pattern Project
 Just playing around with 
-# Bootstrap Cards!
+## Bootstrap Cards!
